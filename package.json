@@ -1,0 +1,17 @@
+{
+  "name": "appium-wdio-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "place your test runner here"
+  },
+  "author": "eugen stotik",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^4.10.2"
+  }
+}
