@@ -1,7 +1,8 @@
+
 describe ('basic test', () => {
-	
+
   it('should open the app', () => {
-	console.log('first test!');
+		console.log('\nIt works!!!\n');
   });
-  
+
 });
