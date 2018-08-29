@@ -2,7 +2,7 @@
 describe ('basic test', () => {
 
   it('should open the app', () => {
-		console.log('\nIt works!!!\n');
+    console.log('\nIt works!!!\n');
   });
 
 });
